@@ -1,0 +1,16 @@
+Módulo 01 – Lógica Proposicional
+Atualização – Estudos iniciais
+
+Conteúdos estudados:
+- O que é proposição
+- Operador lógico E (conjunção)
+- Operador lógico OU (disjunção)
+
+Aprendizados:
+- Proposição é uma frase que pode ser verdadeira ou falsa.
+- O operador E só é verdadeiro quando todas as condições são verdadeiras.
+- O operador OU é falso apenas quando todas as condições são falsas.
+
+Exemplos:
+1) Se eu estudei E pratiquei, então aprendi.
+2) Se chove OU faz frio, então levo um casaco.
