@@ -5,12 +5,18 @@ Conteúdos estudados:
 - O que é proposição
 - Operador lógico E (conjunção)
 - Operador lógico OU (disjunção)
+- Operador SE ENTÃO
+- Operador SE E SOMENTE SE
 
 Aprendizados:
 - Proposição é uma frase que pode ser verdadeira ou falsa.
 - O operador E só é verdadeiro quando todas as condições são verdadeiras.
 - O operador OU é falso apenas quando todas as condições são falsas.
+- Representa uma relação de condição e consequência.
+- Ele é verdadeiro apenas quando ambas as sentenças são verdadeiras ou ambas são falsas.
 
 Exemplos:
 1) Se eu estudei E pratiquei, então aprendi.
 2) Se chove OU faz frio, então levo um casaco.
+3) Se eu estudar programação, então aprenderei lógica.
+4) Se sou brasileiro e nasci no Brasil
