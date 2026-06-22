@@ -42,6 +42,3 @@ Exemplos:
 3) Se eu estudar programação, então aprenderei lógica.
 4) Se sou brasileiro e nasci no Brasil
 
-1) NÃO (Hoje está chovendo)
-2) Vou ao cinema OU EXCLUSIVO vou ao teatro
-3) Se eu estudar programação, então aprenderei lógica.
