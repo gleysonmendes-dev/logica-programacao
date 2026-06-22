@@ -41,5 +41,4 @@ Exemplos:
 2) Vou ao cinema OU EXCLUSIVO vou ao teatro
 3) Se eu estudar programação, então aprenderei lógica.
 4) Se sou brasileiro e nasci no Brasil
-5) Se sou brasileiro e nasci no Brasil
 
