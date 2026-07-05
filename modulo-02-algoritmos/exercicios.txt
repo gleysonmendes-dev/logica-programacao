@@ -1,0 +1,20 @@
+Módulo 02 – Algoritmos
+
+Conteúdos estudados:
+
+- Algoritmos
+- Algoritmos no dia a dia
+- Algoritmos na computação
+- Pseudocódigo
+- Fluxograma
+- Instalação do VisuAlg
+- Palavras-chave reservadas
+- Configuração básica
+
+Aprendizados:
+
+- Um algoritmo é uma sequência de passos para resolver um problema.
+- Antes de programar, é importante planejar a solução.
+- O pseudocódigo facilita a organização da lógica.
+- O fluxograma representa visualmente um algoritmo.
+- O VisuAlg será utilizado para praticar lógica de programação.
