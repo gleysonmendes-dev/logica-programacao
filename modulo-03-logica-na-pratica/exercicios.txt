@@ -1,0 +1,22 @@
+Módulo 03 – Lógica de Programação na Prática
+
+Conteúdos estudados:
+
+- Tipos de dados
+- Variáveis
+- Constantes
+- Concatenação
+- Operadores aritméticos
+- Operadores relacionais
+- Operadores lógicos
+- Agrupamento com parênteses
+
+Aprendizados:
+
+- Escolher o tipo de dado correto para cada informação.
+- Declarar variáveis e constantes.
+- Exibir informações combinando textos e valores.
+- Realizar cálculos básicos.
+- Comparar valores usando operadores relacionais.
+- Combinar condições usando operadores lógicos.
+- Controlar a ordem das operações com parênteses.
