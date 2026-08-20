@@ -1,0 +1,20 @@
+Módulo 04 – Recursos da Programação
+
+Conteúdos estudados:
+
+- Condicionais
+- Se Então
+- Escolha Caso
+- Condicionais encadeadas
+
+Exercícios realizados:
+
+- 10 exercícios práticos sobre estruturas condicionais.
+
+Aprendizados:
+
+- Utilização de estruturas condicionais.
+- Tomada de decisões dentro de algoritmos.
+- Utilização do Se Então.
+- Utilização do Escolha Caso.
+- Utilização de condicionais encadeadas.
