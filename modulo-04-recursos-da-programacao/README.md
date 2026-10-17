@@ -38,7 +38,7 @@ Foram realizados 10 exercícios práticos envolvendo estruturas condicionais.
 - [x] Implementação da fórmula de Bhaskara
 - [x] Validação do coeficiente A
 - [x] Tratamento de delta negativo, zero e positivo
-- [ ] Testes dos diferentes cenários
+- [x] Testes dos diferentes cenários
 
 **Arquivo:** `algoritmos/calculadora_bhaskara.alg`
 
