@@ -32,3 +32,15 @@ Estudo dos recursos fundamentais da programação utilizando o VisuAlg.
 ### Exercícios
 
 Foram realizados 10 exercícios práticos envolvendo estruturas condicionais.
+
+## Exercício de fechamento — Bhaskara
+
+- [x] Implementação da fórmula de Bhaskara
+- [x] Validação do coeficiente A
+- [x] Tratamento de delta negativo, zero e positivo
+- [ ] Testes dos diferentes cenários
+
+**Arquivo:** `algoritmos/calculadora_bhaskara.alg`
+
+**Aprendizados:** condicionais encadeadas, operadores
+matemáticos, validação de dados e tratamento de casos.
